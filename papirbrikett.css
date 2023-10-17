@@ -64,3 +64,11 @@ p:first-letter {
 li {
   margin-top: 10px;
 }
+
+.kor {
+  list-style-type: circle;
+}
+
+.szam {
+  list-style-type: decimal;
+}
