@@ -1,21 +1,21 @@
-body{
+body {
   padding: 15px;
   color: blue;
   line-height: 110%;
   background-image: url(hatterkep.png);
 }
 
-h1{
-
+h1 {
   margin: 10px 0px 40px;
+  text-align: center;
 }
 
-h1, h2{
+h1, h2 {
   font-variant: small-caps;
   color: #3F4F5F;
 }
 
-.bevezeto{
+.bevezeto {
   margin: 10px 200px;
   text-align: center;
   background-color: #EBEBEB;
@@ -23,20 +23,20 @@ h1, h2{
   font-size: 75%;
 }
 
-#brikettek{
+#brikettek {
   width: 90%;
   max-width: 500px;
 }
 
-p{
+p {
   text-align: justify;
 }
 
-p:first-letter{
+p:first-letter {
   margin-left:45px;
 }
 
-#presek{
+#presek {
   float: right;
   background-color: #EBEBEB;
   width: 230px;
@@ -49,15 +49,15 @@ p:first-letter{
   border-right: 1px solid #3F4F5F;
 }
 
-#presek img{
+#presek img {
   width: 220px;
   margin-top: 20px;
 }
 
-.kiemelt{
+.kiemelt {
   font-style: italic;
 }
 
-li{
+li {
   margin-top: 10px;
 }
